@@ -1,5 +1,5 @@
 # trikset.py-typehint
-Type hint set for TRIK
+Python type hint library for TRIK. Use at your own risk if you're advanced TRIK user.
 
 # Installing
 
